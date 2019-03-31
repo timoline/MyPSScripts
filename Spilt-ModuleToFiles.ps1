@@ -1,6 +1,6 @@
-$ModuleName = "PlatyPS"
-$Module = "" #Specify the module 
-$SplittedFunctionPath = "" #Specify Splitted function path
+$ModuleName = "ModuleName"
+$Module = "Module" #Specify the module 
+$SplittedFunctionPath = "Path" #Specify Splitted function path
 
 #Import-Module
 Import-Module $Module -Force -Verbose
